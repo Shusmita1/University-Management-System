@@ -1,0 +1,6 @@
+
+Withdrawing Course (1) => Sid: 1, Course Number: 22, Withdrawing Time: 2020.05.18 - 00.15.52
+Withdrawing Course (2) => Sid: 1, Course Number: 23, Withdrawing Time: 2020.05.18 - 00.15.57
+Withdrawing Course (3) => Sid: 1, Course Number: 24, Withdrawing Time: 2020.05.18 - 00.16.02
+Adding Course (1) => Sid: 11, Course Number: 2,Course Credit: 4, Adding Time: 2020.05.18 - 00.16.12
+Adding Course (2) => Sid: 11, Course Number: 23,Course Credit: 3, Adding Time: 2020.05.18 - 00.16.18
